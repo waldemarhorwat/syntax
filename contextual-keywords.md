@@ -73,7 +73,7 @@ using
   identifier3 = expr3;
 ```
 
-is just an unused expression-statement to an identifier named `using` followed by a comma-expression containing three regular assignments.
+is just an unused expression-statement containing an identifier named `using` followed by a comma-expression containing three regular assignments.
 
 If that were the entirety of the situation, we could add arbitrarily more prefix contextual keywords without too much trouble.
 
